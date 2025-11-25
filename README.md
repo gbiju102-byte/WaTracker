@@ -1,4 +1,4 @@
-# ![Icon](art/icon64.png) WaTracker
+ea82aea28d98e2945e1526f484b3c15074386932# ![Icon](art/icon64.png) WaTracker
 
 __NOTE:__ Google [announced](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html)
 that Chrome Apps will stop working in early 2018.
